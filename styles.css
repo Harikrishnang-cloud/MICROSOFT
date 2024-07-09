@@ -1,0 +1,657 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.view{
+    display:flex;
+
+}
+.nav-left{
+    display: flex;
+    flex: 1; 
+}
+.nav-left ul{
+    display: flex;
+    list-style:none;
+    font-size: small;
+    height: 23px;
+    margin-left: 40px;
+    margin-top: 5px; 
+}
+a{
+    color:black;
+}
+.logo{
+    height: 23px;
+    margin-left: 80px;
+    margin-top: 18px;
+}
+.nav-left li{
+    margin: 19px;
+    justify-content: space-evenly;
+}
+.nav-right{
+    display:flex;
+}
+.nav-right ul{
+    display: flex;
+    list-style:none;
+    font-size: small;
+    height: 23px;
+    margin-right:  60px;
+    margin-top: 10px; 
+}
+.logo2{
+    padding-top: 20px;
+    padding-right: px;
+}
+.nav-right li{
+    margin: 19px;
+    justify-content: space-evenly;
+}
+.frame1{
+    display: flex;
+    height: 480px;
+    margin:0;
+    box-sizing: border-box;
+    padding-top: 20px;
+}
+.fimage{
+    background-image: url("/Copilot\ PC.jpg");
+    background-size: cover;
+    background-position: center;
+    width:100%;
+}
+.button1 button{
+    padding: 6px 15px;
+    border:none;
+    background-color: #ffb900;    
+}
+h1{
+    font: size 2.3125rem;
+    margin-bottom: 1.25rem;
+}
+p{
+    margin-bottom: 1.5rem;
+}
+.button2 button{
+    padding: 10px 18px;
+    background-color:#005ca5;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+}
+.A1{
+    padding: 100px;
+}
+.cl1{
+    height:40px;
+}
+.container{
+    padding-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.frame3{
+    display:flex;
+    gap:50px;
+    padding-left: 130px;
+    text-decoration: underline;
+    color:#0067b8
+}
+.frame2 .cl1 {
+    padding-left: 120px;
+}
+.container1{
+    width: 443px;
+    box-sizing: border-box;
+    padding:32px;
+}
+.set2 h2,h5{
+    padding-left: 24px;
+    padding-top: 20px;
+}
+.card{
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.1);
+}
+.buttonb button{
+    padding: 10px 20px;
+    background-color:#005ca5;
+    color: white;
+    height: 40px;
+    width:250px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.buttonb{
+    
+    padding-top: 50px;
+    padding-left: 20px;
+}
+h5{
+    font-weight: 400;
+    font-size: 16px;
+}
+h2{
+    font-weight: 500;
+    font-size: 26px;
+}
+.container1{
+    box-sizing: border-box;
+    padding:32px;
+}
+.set2 h2,h5{
+    padding-left: 24px;
+    padding-top: 20px;
+}
+.card{
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.1);
+}
+.buttonb button{
+    padding: 10px 20px;
+    background-color:#005ca5;
+    color: white;
+    height: 40px;
+    width:250px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.buttonb{
+    
+    padding-top: 50px;
+    padding-left: 20px;
+}
+h5{
+    font-weight: 400;
+    font-size: 16px;
+}
+h2{
+    font-weight: 500;
+    font-size: 26px;
+}
+.container1{
+    box-sizing: border-box;
+    padding:32px;
+}
+.set2 h2,h5{
+    padding-left: 24px;
+    padding-top: 20px;
+}
+.card{
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.1);
+}
+.buttonb button{
+    padding: 10px 20px;
+    background-color:#005ca5;
+    color: white;
+    height: 40px;
+    width:250px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.buttonb{
+    
+    padding-top: 50px;
+    padding-left: 20px;
+}
+h5{
+    font-weight: 400;
+    font-size: 16px;
+}
+h2{
+    font-weight: 500;
+    font-size: 26px;
+}
+.container1{
+    box-sizing: border-box;
+    padding:32px;
+}
+.set2 h2,h5{
+    padding-left: 24px;
+    padding-top: 20px;
+}
+.card{
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.1);
+}
+.buttonb button{
+    padding: 10px 20px;
+    background-color:#005ca5;
+    color: white;
+    height: 40px;
+    width:250px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.buttonb{
+    
+    padding-top: 50px;
+    padding-left: 20px;
+}
+h5{
+    font-weight: 400;
+    font-size: 16px;
+}
+h2{
+    font-weight: 500;
+    font-size: 26px;
+}
+.mainc{
+    display: flex;
+}
+.frame1{
+    display: flex;
+    height: 480px;
+    margin:0;
+    box-sizing: border-box;
+    padding-top: 20px;
+}
+.fimage2{
+    background-image: url("/Xbox\ Game.jpeg");
+    background-size: cover;
+    background-position: center;
+    width:100%;
+}
+.button1 button{
+    padding: 6px 15px;
+    border:none;
+    background-color: #ffb900;    
+}
+h1{
+    font: size 2.3125rem;
+    margin-bottom: 1.25rem;
+}
+p{
+    margin-bottom: 1.5rem;
+}
+.button2 button{
+    padding: 10px 18px;
+    background-color:#005ca5;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+}
+.Acolor{
+    color:white;
+    padding: 100px;
+}
+.container1{
+    box-sizing: border-box;
+    padding:32px;
+}
+.set2 h2,h5{
+    padding-left: 24px;
+    padding-top: 20px;
+}
+.card{
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.1);
+}
+.buttonb button{
+    padding: 10px 20px;
+    background-color:#005ca5;
+    color: white;
+    height: 40px;
+    width:250px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.buttonb{
+    
+    padding-top: 50px;
+    padding-left: 20px;
+}
+h5{
+    font-weight: 400;
+    font-size: 16px;
+}
+h2{
+    font-weight: 500;
+    font-size: 26px;
+}
+.container1{
+    box-sizing: border-box;
+    padding:32px;
+}
+.set2 h2,h5{
+    padding-left: 24px;
+    padding-top: 20px;
+}
+.card{
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.1);
+}
+.buttonb button{
+    padding: 10px 20px;
+    background-color:#005ca5;
+    color: white;
+    height: 40px;
+    width:250px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.buttonb{
+    
+    padding-top: 50px;
+    padding-left: 20px;
+}
+h5{
+    font-weight: 400;
+    font-size: 16px;
+}
+h2{
+    font-weight: 500;
+    font-size: 26px;
+}
+.container1{
+    box-sizing: border-box;
+    padding:32px;
+}
+.set2 h2,h5{
+    padding-left: 24px;
+    padding-top: 20px;
+}
+.card{
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.1);
+}
+.buttonb button{
+    padding: 10px 20px;
+    background-color:#005ca5;
+    color: white;
+    height: 40px;
+    width:250px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.buttonb{
+    
+    padding-top: 50px;
+    padding-left: 20px;
+}
+h5{
+    font-weight: 400;
+    font-size: 16px;
+}
+h2{
+    font-weight: 500;
+    font-size: 26px;
+}
+.container1{
+    box-sizing: border-box;
+    padding:32px;
+}
+.set2 h2,h5{
+    padding-left: 24px;
+    padding-top: 20px;
+}
+.card{
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.1);
+}
+.buttonb button{
+    padding: 10px 20px;
+    background-color:#005ca5;
+    color: white;
+    height: 40px;
+    width:250px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.buttonb{
+    
+    padding-top: 50px;
+    padding-left: 20px;
+}
+h5{
+    font-weight: 400;
+    font-size: 16px;
+}
+h2{
+    font-weight: 500;
+    font-size: 26px;
+}
+.mainc2{
+    display: flex;
+}
+.a-data{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 150px;
+    column-gap: 20px;
+}
+.x3{
+    height: 30px;
+    padding-top: 20px;
+}
+.buttonC button
+{
+    padding: 10px 20px;
+    background-color:#a5a5a5;
+    color: black;
+    height: 40px;
+    width:160px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.b-data{
+    padding-left: 1300px;
+    padding-top: 10px;
+    
+}
+.a1 td{
+    padding: 10px;
+    font-weight: 100;
+}
+.a2 td{
+    padding: 10px;
+    font-weight: 100;
+}
+.a3 td{
+    padding: 10px;
+    font-weight: 100;
+}
+.a4 td{
+    padding: 10px;
+    font-weight: 100;
+}
+.a5 td{
+    padding: 10px;
+    font-weight: 100;
+}
+.a6 td{
+    padding: 10px;
+    font-weight: 100;
+}
+.a7 td{
+    padding: 10px;
+    font-weight: 100;
+}
+.a8 td{
+    padding: 10px;
+    font-weight: 100;
+}
+.a1{
+    font-size: small;
+}
+.a2{
+    font-size: small;
+}
+.a3{
+    font-size: small;
+}
+.a4{
+    font-size: small;
+}
+.a5{
+    font-size: small;
+}
+.a6{
+    font-size: small;
+}
+.a7{
+    font-size: small;
+}
+.a8{
+    font-size: small;
+}
+.a9{
+    font-size: small;
+}
+.h1{
+    margin-left: 0px;
+}
+.th1 td{
+    font-size: large;
+    font-weight: bold;
+}
+.f1{
+
+    margin-top: 20px;
+}
+.m1{
+    padding: 40px 150px;
+}
+.new8{
+    display: flex;
+}
+.mainc0{
+    padding: 50px;
+    font-size:large;
+}
+.m-name{
+    font-weight: 500;
+}
+.buttonb1 button{
+    padding: 10px 20px;
+    background-color:#005ca5;
+    color: white;
+    height: 40px;
+    width:250px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.buttonb1{
+    padding-top: 50px;
+    padding-left: 20px;
+}
+.buttonb2 button{
+    padding: 10px 20px;
+    background-color:#005ca5;
+    color: white;
+    height: 40px;
+    width:250px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.buttonb3 button{
+    padding: 10px 20px;
+    background-color:#005ca5;
+    color: white;
+    height: 40px;
+    width:250px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.buttonb4 button{
+    padding: 10px 20px;
+    background-color:#005ca5;
+    color: white;
+    height: 40px;
+    width:250px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.buttonb1{
+    padding-top: 50px;
+    padding-left: 20px;
+}
+.buttonb2{
+    padding-top: 50px;
+    padding-left: 20px;
+    margin-top: 40px;
+}
+.buttonb3{
+    padding-top: 50px;
+    padding-left: 20px;
+    margin-top: 128px;
+}
+.buttonb4{
+    padding-top: 50px;
+    padding-left: 20px;
+    margin-top: 104px;
+}
+.buttonb5 button{
+    padding: 10px 20px;
+    background-color:#005ca5;
+    color: white;
+    height: 40px;
+    width:250px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.buttonb5{
+    padding-top: 50px;
+    padding-left: 20px;
+    margin-top:64px;
+}
+.buttonb6 button{
+    padding: 10px 20px;
+    background-color:#005ca5;
+    color: white;
+    height: 40px;
+    width:250px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.buttonb6{
+    padding-top: 50px;
+    padding-left: 20px;
+}
+.buttonb7 button{
+    padding: 10px 20px;
+    background-color:#005ca5;
+    color: white;
+    height: 40px;
+    width:250px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.buttonb7{
+    padding-top: 50px;
+    padding-left: 20px;
+    margin-top:66px;
+}
+.buttonb8 button{
+    padding: 10px 20px;
+    background-color:#005ca5;
+    color: white;
+    height: 40px;
+    width:250px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
+.buttonb8{
+    padding-top: 50px;
+    padding-left: 20px;
+    margin-top: 18px;
+}
+.body{
+    overflow-x: hidden;
+}
